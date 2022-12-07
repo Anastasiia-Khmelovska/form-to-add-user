@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
-    '@mate-academy/eslint-config-react-typescript',
-    'plugin:react/recommended',
+    // '@mate-academy/eslint-config-react-typescript',
+    // 'plugin:react/recommended',
   ],
   rules: {
     // React
