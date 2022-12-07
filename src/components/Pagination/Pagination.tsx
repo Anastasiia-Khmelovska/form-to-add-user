@@ -30,7 +30,7 @@ export const Pagination: React.FC<Props> = ({
           <li key={number}>
             <a
               className="pagination-link"
-              href="page#"
+              href="#"
               onClick={() => paginate(number)}
             >
               {number}
